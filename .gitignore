@@ -1,0 +1,22 @@
+# Audio files (recorded locally, not committed)
+*.wav
+*.mp3
+*.m4a
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Credentials — never commit tokens
+*.env
+
+# Enrolled speaker embeddings — biometric voice data tied to named individuals;
+# per your project's own privacy section (13.1), keep this local, not in git
+enrolled_speakers.json
+
+# OS junk
+.DS_Store
+Thumbs.db
