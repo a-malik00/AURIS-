@@ -20,3 +20,10 @@ enrolled_speakers.json
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Cached test-clip embeddings — also biometric voice data
+test_embeddings_cache.json
+
+# Large model checkpoints
+*.nemo
+*.onnx

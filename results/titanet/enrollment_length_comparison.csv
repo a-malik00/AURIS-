@@ -1,0 +1,6 @@
+run_id,enrollment,threshold,n_known,closed_set_acc,closed_set_ci_lo,closed_set_ci_hi,n_known_eval,known_id_acc_eval,n_unknown_eval,unknown_reject_eval,mean_target_sim,mean_nontarget_sim
+20260929-084616,5s,0.4854,10,1,0.722,1,4,0.75,2,1,0.647,0.21
+20260929-084616,10s,0.4854,10,1,0.722,1,4,0.75,2,1,0.668,0.227
+20260929-084616,15s,0.4854,10,1,0.722,1,4,1.0,2,1,0.716,0.235
+20260929-084616,30s,0.4854,10,1,0.722,1,4,1.0,2,1,0.734,0.254
+20260929-084616,mean_all,0.4854,10,1,0.722,1,4,1.0,2,1,0.724,0.244

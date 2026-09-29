@@ -1,0 +1,5 @@
+run_id,clip,ground_truth,clip_num,split,enrollment,sim_Ayesha,sim_Sabeeh,top_speaker,top_score,second_score,margin,threshold,predicted,correct,closed_set_correct,failure_type
+20260929-084616,Sabeeh4.wav,Sabeeh,4,eval,5s,0.254,0.4651,Sabeeh,0.4651,0.254,0.2111,0.4854,UNKNOWN,False,True,false_reject
+20260929-084616,Sabeeh4.wav,Sabeeh,4,eval,10s,0.3048,0.4821,Sabeeh,0.4821,0.3048,0.1773,0.4854,UNKNOWN,False,True,false_reject
+20260929-084616,Sabeeh5.wav,Sabeeh,5,dev,5s,0.2489,0.4718,Sabeeh,0.4718,0.2489,0.2229,0.4854,UNKNOWN,False,True,false_reject
+20260929-084616,Sabeeh5.wav,Sabeeh,5,dev,10s,0.3072,0.4688,Sabeeh,0.4688,0.3072,0.1616,0.4854,UNKNOWN,False,True,false_reject

@@ -1,0 +1,5 @@
+model,run_id,enrollment_files,threshold,threshold_method,known_correct,unknown_rejected,min_target,max_nontarget,gap,d_prime,speaker_profile_similarity,errors_5s_10s_enrollment
+WeSpeaker ResNet34-LM (pyannote),20260925-120435,8,0.4986,calibrated on dev clips (gap midpoint),10/10,4/4,0.565,0.418,0.147,4.49,0.384,5 false rejects (Sabeeh)
+TitaNet-Large (NVIDIA NeMo),20260929-084616,15,0.4854,calibrated on dev clips (gap midpoint),10/10,4/4,0.577,0.429,0.147,4.72,0.251,4 false rejects (Sabeeh)
+"WavLM Base+ SV (Microsoft), default",separate script,unknown,0.86,fixed default from model demo,10/10,0/4,0.942,0.912,0.03,3.22,n/a,not tested
+"WavLM Base+ SV (Microsoft), recalibrated",separate script (rescored offline),unknown,0.927,"gap midpoint on dev clips, applied offline",10/10,4/4,0.942,0.912,0.03,3.22,n/a,not tested

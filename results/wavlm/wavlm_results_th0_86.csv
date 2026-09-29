@@ -1,0 +1,15 @@
+file,Ayesha,Sabeeh,best_score,expected,predicted,correct
+Ayesha1.wav,0.96,0.843,0.96,Ayesha,Ayesha,True
+Ayesha2.wav,0.983,0.904,0.983,Ayesha,Ayesha,True
+Ayesha3.wav,0.949,0.794,0.949,Ayesha,Ayesha,True
+Ayesha4.wav,0.946,0.827,0.946,Ayesha,Ayesha,True
+Ayesha5.wav,0.951,0.879,0.951,Ayesha,Ayesha,True
+Sabeeh1.wav,0.906,0.96,0.96,Sabeeh,Sabeeh,True
+Sabeeh2.wav,0.874,0.959,0.959,Sabeeh,Sabeeh,True
+Sabeeh3.wav,0.887,0.942,0.942,Sabeeh,Sabeeh,True
+Sabeeh4.wav,0.896,0.946,0.946,Sabeeh,Sabeeh,True
+Sabeeh5.wav,0.875,0.947,0.947,Sabeeh,Sabeeh,True
+U1.wav,0.812,0.861,0.861,unknown,Sabeeh,False
+U2.wav,0.908,0.874,0.908,unknown,Ayesha,False
+U3.wav,0.87,0.912,0.912,unknown,Sabeeh,False
+U4.wav,0.806,0.878,0.878,unknown,Sabeeh,False
